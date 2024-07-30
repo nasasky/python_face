@@ -4,6 +4,6 @@
 比较两张人脸的特征
 
 
-1.pip install opencv-python
+1.pip install opencv-contrib-python
 
 2.pip install opencv-python opencv-contrib-python

@@ -1,7 +1,7 @@
 import cv2
 import os
 import numpy as np
-
+#训练生成图片模型数据
 # 获取当前工作目录
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
